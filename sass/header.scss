@@ -1,0 +1,19 @@
+.total-gastos{
+    border: 3px solid wheat;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    
+    &__leyenda{
+        margin-bottom: 10px;
+        font-weight: 500;
+        
+    }
+    &__cantidad{
+        width: 100%;
+        font-size: 2.4rem;
+        font-weight:800;
+        letter-spacing:0.1rem;
+        color: #14F97D;
+    }
+}
